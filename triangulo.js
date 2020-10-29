@@ -11,8 +11,8 @@ var Triangulo = /** @class */ (function () {
         var arr1 = this.element1.calcularDistancia(this.element2);
         var arr2 = this.element1.calcularDistancia(this.element3);
         var arr3 = this.element3.calcularDistancia(this.element2);
-        var sumaTotal = [arr1, arr2, arr3];
-        return sumaTotal;
+        var longTotal = [arr1, arr2, arr3];
+        return longTotal;
     };
     return Triangulo;
 }());

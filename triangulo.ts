@@ -21,9 +21,9 @@ export class Triangulo {
         let arr1 = this.element1.calcularDistancia(this.element2);
         let arr2 = this.element1.calcularDistancia(this.element3);
         let arr3 = this.element3.calcularDistancia(this.element2);
-        let sumaTotal = [arr1, arr2, arr3];
+        let longTotal = [arr1, arr2, arr3];
 
-        return sumaTotal;
+        return longTotal;
     }
     
 }
