@@ -91,7 +91,7 @@ export class Punto {
     }
 
 }
-
+ 
 // let punto:Punto = new Punto(10,-5)
 // let puntoorigen:Punto = new Punto(0,0)
 // let otroPunto:Punto = new Punto(20,10)
@@ -104,3 +104,6 @@ export class Punto {
 // // console.log(punto.calcularDistancia(otroPunto));
 // console.log(punto.calcularMasCercano(puntitos));
 
+// export let punto1:Punto = new Punto(10,-5)
+// export let puntoorigen:Punto = new Punto(0,0)
+// export let puntoorigen2:Punto = new Punto(10,10)

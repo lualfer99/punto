@@ -70,3 +70,6 @@ exports.Punto = Punto;
 // // console.log(punto.calcularCuadrante());
 // // console.log(punto.calcularDistancia(otroPunto));
 // console.log(punto.calcularMasCercano(puntitos));
+// export let punto1:Punto = new Punto(10,-5)
+// export let puntoorigen:Punto = new Punto(0,0)
+// export let puntoorigen2:Punto = new Punto(10,10)
